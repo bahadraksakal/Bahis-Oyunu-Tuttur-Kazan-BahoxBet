@@ -37,7 +37,6 @@
   </li>
   </ol>
       <h3 color="Red">Video:</h3>
-[video]https://user-images.githubusercontent.com/72493865/169689900-ddfc2f1d-eac4-49d8-8e07-8d8e14d1e49b.mp4
 
 
 
@@ -45,6 +44,10 @@
 
 
   
+
+https://user-images.githubusercontent.com/72493865/169690002-4d08a63f-ce78-4f8a-abcc-dc8018538937.mp4
+
+
     
 
 
