@@ -38,7 +38,7 @@
   <li>
       <h3 color="Red">Video:</h3>
       <ul>
-        <li><video src="Readme-img-video/Tuttur Kazan Proje.mp4" width="852" height="480"></video>
+        <li><video src="Readme-img-video/Tuttur Kazan Proje.mp4"></video>
         </li>
       </ul>
   </li>
