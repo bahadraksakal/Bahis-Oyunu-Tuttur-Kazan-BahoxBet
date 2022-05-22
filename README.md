@@ -38,10 +38,7 @@
   <li>
       <h3 color="Red">Video:</h3>
       <ul>
-        <li><video width="852" height="480" controls>
-            <source src="Readme-img-video/Tuttur Kazan Proje.mp4"" type="video/mp4">
-             Your browser does not support the video tag.
-            </video>
+        <li><video src="Readme-img-video/Tuttur Kazan Proje.mp4" width="852" height="480"/>
         </li>
       </ul>
   </li>
