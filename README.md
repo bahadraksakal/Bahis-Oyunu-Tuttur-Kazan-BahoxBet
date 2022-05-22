@@ -16,6 +16,7 @@
         <li>1000 Kişinin katıldığı bir bahis oyunu simüle edilmiştir.</li>
         <li>Her kullancının bilgisi <b>ad_soyad#toplam_bakiye#masaya_konan_oran#tahmin_edilen_sayi</b> örn. (<b>Rafaela Carroll#79289.71#0.89#1</b>) şeklinde formatlanmıştır. Ve bir txt belgesinin içinde alt alta bulunmaktadır.</li>
         <li>Masa her tur için kazanan bir sayıyı oluşturur. Bu sayılar önceden oluşturulmuş ve bir txt belgesinin içinde alt alta bulunmaktadır.</li>
+        <li>Şanslı sayılar 1-10 arasındadır</li>
         <li>Oyuncular masadaki kazanan sayıyı doğru tahmin ederse, yatırdıkları paranın 10 katını kazanır. Aksi halde yatırdıkları parayı kaybederler.</li>
         <li>Oyuncular oyunun başında belirledikleri oran kadar bahis yapmaladırlar, yani bahis miktarı (toplam_bakiye * masaya_konan_oran) kadar olmalıdır.</li>
         <li>Oyun 278 tur sürmektedir. 278 turdan önce hiçbir oyuncu masadan ayrılamaz. Eğer ayrılırsa masadaki toplam likid varlığı kasaya geçer.</li>
