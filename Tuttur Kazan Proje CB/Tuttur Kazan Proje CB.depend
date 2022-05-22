@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1651796304 source:d:\programlar\codeblock proje\tuttur kazan proje cb\src\dosya.c
+	"../include/Dosya.h"
+
+1651759165 d:\programlar\codeblock proje\tuttur kazan proje cb\include\dosya.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
+1651793988 source:d:\programlar\codeblock proje\tuttur kazan proje cb\src\kisi.c
+	"../include/Kisi.h"
+
+1651793971 d:\programlar\codeblock proje\tuttur kazan proje cb\include\kisi.h
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+
+1651678132 source:d:\programlar\codeblock proje\tuttur kazan proje cb\src\main.c
+
+1651797879 source:d:\programlar\codeblock proje\tuttur kazan proje cb\src\oyun.c
+	"../include/Oyun.h"
+
+1651796477 d:\programlar\codeblock proje\tuttur kazan proje cb\include\oyun.h
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+	"windows.h"
+	"Kisi.h"
+	"Dosya.h"
+
+1652009818 source:d:\programlar\codeblock proje\tuttur kazan proje cb\src\test.c
+	"../include/Test.h"
+
+1651798746 d:\programlar\codeblock proje\tuttur kazan proje cb\include\test.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"windows.h"
+	"Kisi.h"
+	"Dosya.h"
+
