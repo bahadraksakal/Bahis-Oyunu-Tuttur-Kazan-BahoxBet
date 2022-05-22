@@ -35,14 +35,10 @@
         <li><img src="Readme-img-video/adim3.png"></li>
       </ul>
   </li>
-  <li>
+  </ol>
       <h3 color="Red">Video:</h3>
-      <ul>
-        <li>[<video src="Readme-img-video/Tuttur Kazan Proje.mp4"></video>](https://user-images.githubusercontent.com/72493865/169689900-ddfc2f1d-eac4-49d8-8e07-8d8e14d1e49b.mp4)
-        </li>
-      </ul>
-  </li>
-</ol>
+[<video src="Readme-img-video/Tuttur Kazan Proje.mp4"></video>](https://user-images.githubusercontent.com/72493865/169689900-ddfc2f1d-eac4-49d8-8e07-8d8e14d1e49b.mp4)
+
 
 
 
