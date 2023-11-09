@@ -13,9 +13,7 @@
 
 #### [EN]
 
-## Bet Game Guess Right And Win BahoxBet
-
-##### 2\. My Class Spring Term Project
+## 2\. My Class Spring Term Project Bet Game Guess Right And Win BahoxBet
 
 1. ### Technology and Languages Used in the Project:
     
@@ -44,9 +42,7 @@
 
 #### [TR]
 
-## Bahis Oyunu Tuttur Kazan BahoxBet
-
-##### 2\. Sınıf Bahar Dönemi Projem
+## 2\. Sınıf Bahar Dönemi Projem Bahis Oyunu Tuttur Kazan BahoxBet
 
 1.  ### Projede Kullanılan Teknoloji Ve Diller:
     
