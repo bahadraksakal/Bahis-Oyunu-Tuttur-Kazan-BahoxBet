@@ -13,7 +13,7 @@
 
 #### [EN]
 
-## 2\. My Class Spring Term Project Bet Game Guess Right And Win BahoxBet
+## 2nd Grade Spring Semester Project Bet Game Guess Right And Win BahoxBet
 
 1. ### Technology and Languages Used in the Project:
     
